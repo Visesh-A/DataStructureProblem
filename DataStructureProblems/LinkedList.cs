@@ -28,4 +28,4 @@ namespace DataStructureProblems
             Console.WriteLine("{0} Inserted into Linked List", node.data);
         }
     }
-}
+} 
